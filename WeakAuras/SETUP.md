@@ -8,6 +8,6 @@ __WeakAuras__ allows you to create custom visual alerts and notifications for al
 2. Log in to the game:
     - Type `/wa`.
     - Import all the desired WeakAuras:
-        - [MP5 Tracker](MP5%20Tracker)
+        - [MP5 Tracker](Mp5%20tracker)
         - [Feral Charge Tracker](Feral%20Charge%20tracker)
         - [UnitFrame font-size mod](UnitFrame%20font-size%20mod)
