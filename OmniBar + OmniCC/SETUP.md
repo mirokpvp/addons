@@ -8,11 +8,12 @@ __OmniCC__ adds numeric cooldown timers directly onto your action bar buttons.
 ## Setup
 
 1. Download both addons: `Omnibar` and `OmniCC`
-2. Copy and paste [OmniBar.lua](OmniBar.lua) and [OmniCC.lua](OmniCC.lua) into your wow folder:
+2. Copy and paste [OmniCC.lua](OmniCC.lua) into your wow folder:
 `_anniversary_ > WTF > Account > "Select your account" > SavedVariables`
 3. Log in to the game:
-    - Type `/omnibar` and `/omnicc`.
-    - You should have the default profiles enabled.
+    - Type `/omnibar`.
+    - Import the [Omnibar file](OmniBar.txt) using the `Import` button.
+    - Type `/omnicc` and confirm you have `default` profile set.
 
 ## Changing omnibar font-size
 1. Type `/omnicc`
