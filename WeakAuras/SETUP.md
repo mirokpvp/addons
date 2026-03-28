@@ -11,4 +11,4 @@ __WeakAuras__ allows you to create custom visual alerts and notifications for al
         - [MP5 Tracker](Mp5%20tracker)
         - [Feral Charge Tracker](Feral%20Charge%20tracker)
         - [Self/Target/Focus font-size mod (12 to 10)](UnitFrame%20font-size%20mod)
-        - [PartyCastBars]
+        - [PartyCastBars](PartyCastBars)
